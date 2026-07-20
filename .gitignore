@@ -28,3 +28,4 @@ out/
 # Misc
 
 **.ignore**
+response.json
